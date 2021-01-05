@@ -1,4 +1,4 @@
-package com.infinova.file.io;
+package com.yonyou.file.io;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.infinova.file.io;
+package com.yonyou.file.io;
 
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
